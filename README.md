@@ -237,4 +237,4 @@ This repository serves as the official landing page for WRC FIA World Rally Cham
 **Get the most recent version of WRC FIA World Rally Championship today!**
 
 ---
-**Last updated:** 2026-09-16 17:58:13 UTC
+**Last updated:** 2026-09-16 21:09:46 UTC
